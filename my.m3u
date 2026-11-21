@@ -1,0 +1,141 @@
+#EXTM3U x-tvg-url="https://sflex.fun/content-jiotvplus.media.jio/metadata/v2/livechannels/epg.xml.gz"
+#EXTINF:-1 tvg-id="465" tvg-logo="https://img.media.jio.com/imagespublic/10/30/Jaihindtv_1574668902606_tv.jpg" group-title="News" tvg-language="Malayalam",Jaihind tv
+https://sxcce.dpdns.org/jtv/300013.m3u8
+
+#EXTINF:-1 tvg-id="563" tvg-logo="https://img.media.jio.com/imagespublic/66/66/KaumudyTV_1574670054164_tv.jpg" group-title="Lifestyle" tvg-language="Malayalam",Kaumudy
+https://sxcce.dpdns.org/jtv/300038.m3u8
+
+#EXTINF:-1 tvg-id="606" tvg-logo="https://img.media.jio.com/imagespublic/89/69/Shalom_1574671392082_tv.jpg" group-title="Devotional" tvg-language="Malayalam",SHALOM TV
+https://sxcce.dpdns.org/jtv/300054.m3u8
+
+#EXTINF:-1 tvg-id="634" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="Entertainment" tvg-language="Malayalam",Flower TV
+https://sxcce.dpdns.org/jtv/300068.m3u8
+
+#EXTINF:-1 tvg-id="650" tvg-logo="https://img.media.jio.com/imagespublic/24/29/RajNewsMalayalam_1574671092521_tv.jpg" group-title="News" tvg-language="Malayalam",Raj News Malayalam
+https://sxcce.dpdns.org/jtv/300080.m3u8
+
+#EXTINF:-1 tvg-id="648" tvg-logo="https://img.media.jio.com/tvpimages/27/92/300079_1752854541032_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Mazhavil Manorama
+https://sxcce.dpdns.org/jtv/300079.m3u8
+
+#EXTINF:-1 tvg-id="662" tvg-logo="https://img.media.jio.com/tvpimages/54/1/300083_1752854571449_l_medium.jpg" group-title="News" tvg-language="Malayalam",Manorama News
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="710" tvg-logo="https://img.media.jio.com/imagespublic/26/35/KairaliTV_1574693221565_tv.jpg" group-title="Entertainment" tvg-language="Malayalam",Kairali TV
+https://sxcce.dpdns.org/jtv/300103.m3u8
+
+#EXTINF:-1 tvg-id="723" tvg-logo="https://img.media.jio.com/imagespublic/75/60/AmritaTV_1574692050574_tv.jpg" group-title="Entertainment" tvg-language="Malayalam",Amrita TV
+https://sxcce.dpdns.org/jtv/300111.m3u8
+
+#EXTINF:-1 tvg-id="725" tvg-logo="https://img.media.jio.com/imagespublic/38/31/KairaliNews_1574693279602_tv.jpg" group-title="News" tvg-language="Malayalam",Kairali News
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="739" tvg-logo="https://img.media.jio.com/imagespublic/50/31/RajMusicMalayalam_1574695091243_tv.jpg" group-title="Music" tvg-language="Malayalam",Raj Musix Malayalam
+https://cdn.pishow.tv/ott/live/1073/master.m3u8
+
+#EXTINF:-1 tvg-id="780" tvg-logo="https://img.media.jio.com/imagespublic/77/0/MathrubhumiNews_1574692279576_tv.jpg" group-title="News" tvg-language="Malayalam",Mathrubhumi News
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="786" tvg-logo="https://img.media.jio.com/imagespublic/9/60/KappaTV_1574668174669_tv.jpg" group-title="Music" tvg-language="Malayalam",Kappa TV
+https://sxcce.dpdns.org/jtv/300138.m3u8
+
+#EXTINF:-1 tvg-id="842" tvg-logo="https://img.media.jio.com/imagespublic/67/11/JeevanTV_1574667899965_tv.jpg" group-title="News" tvg-language="Malayalam",Jeevan TV
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/JeevanTV.m3u8
+
+#EXTINF:-1 tvg-id="844" tvg-logo="https://img.media.jio.com/tvpimages/97/2/300156_1752854414598_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Mazhavil Manorama HD
+https://sxcce.dpdns.org/jtv/300156.m3u8
+
+#EXTINF:-1 tvg-id="965" tvg-logo="https://img.media.jio.com/tvpimages/47/24/300281_1753197057088_l_medium.jpg" group-title="News" tvg-language="Malayalam",News18 Kerala
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="194348" tvg-logo="https://img.media.jio.com/tvpimages/24/20/300428_1774376218190_l_medium.jpg" group-title="Kids" tvg-language="Malayalam",Kochu TV
+https://sxcce.dpdns.org/live/5863.m3u8
+
+#EXTINF:-1 tvg-id="1429" tvg-logo="https://img.media.jio.com/imagespublic/30/48/KiteVicters_1593440247006_tv.jpg" group-title="Education" tvg-language="Malayalam",Kite Victers
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1250" tvg-logo="https://img.media.jio.com/imagespublic/18/53/301020_1616755332692_p_medium.jpg" group-title="News" tvg-language="Malayalam",Twenty Four News
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="180" tvg-logo="https://img.media.jio.com/tvpimages/64/6/301117_1753183192593_l_medium.jpg" group-title="News" tvg-language="Malayalam",Asianet News
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="731" tvg-logo="https://img.media.jio.com/imagespublic/19/32/301221_1649943736132_p_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",WE TV
+https://sxcce.dpdns.org/jtv/301221.m3u8
+
+#EXTINF:-1 tvg-id="910" tvg-logo="https://img.media.jio.com/imagespublic/46/11/301225_1649944584327_p_medium.jpg" group-title="News" tvg-language="Malayalam",Media One TV
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="699" tvg-logo="https://img.media.jio.com/imagespublic/85/81/301376_1681911616718_p_medium.jpg" group-title="DD Channels" tvg-language="Malayalam",DD Malayalam
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1643" tvg-logo="https://img.media.jio.com/tvpimages/13/65/301504_1754936286410_l_medium.jpg" group-title="Devotional" tvg-language="Malayalam",Harvest TV 24x7
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1388" tvg-logo="https://img.media.jio.com/imagespublic/35/79/301507_1690884411135_p_medium.jpg" group-title="Devotional" tvg-language="Malayalam",Goodness
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1666" tvg-logo="https://img.media.jio.com/tvpimages/60/36/301514_1754938539481_l_medium.jpg" group-title="Infotainment" tvg-language="Malayalam",Safari TV
+https://fta.ektv.in/live/410/master.m3u8
+
+#EXTINF:-1 tvg-id="810" tvg-logo="https://img.media.jio.com/imagespublic/9/59/301594_1703749912943_p_medium.jpg" group-title="News" tvg-language="Malayalam",Janam TV
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1644" tvg-logo="https://img.media.jio.com/tvpimages/70/20/301692_1754938155148_l_medium.jpg" group-title="Devotional" tvg-language="Malayalam",Powervision TV
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1408" tvg-logo="https://img.media.jio.com/imagespublic/31/84/301776_1722674197825_p_medium.jpg" group-title="News" tvg-language="Malayalam",Reporter TV
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="3174" tvg-logo="https://img.media.jio.com/tvpimages/32/58/301894_1732843789119_p_medium.jpg" group-title="Newly Launched" tvg-language="Malayalam",Malyalam Naaptol
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="3184" tvg-logo="https://img.media.jio.com/tvpimages/25/12/301904_1733834284058_p_medium.jpg" group-title="News" tvg-language="Malayalam",News Malayalam
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="443" tvg-logo="https://img.media.jio.com/tvpimages/42/10/301975_1753198997038_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Asianet HD
+https://sxcce.dpdns.org/jtv/301975.m3u8
+
+#EXTINF:-1 tvg-id="459" tvg-logo="https://img.media.jio.com/tvpimages/34/22/301977_1753187221287_l_medium.jpg" group-title="Movies" tvg-language="Malayalam",Asianet Movies HD
+https://sxcce.dpdns.org/live/291172.m3u8
+
+#EXTINF:-1 tvg-id="1153" tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203207304_l_medium.jpg" group-title="Movies" tvg-language="Malayalam",Asianet Movies
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1118" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237028_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Asianet
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1139	" tvg-logo="https://img.media.jio.com/tvpimages/28/28/302109_1753199067845_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Asianet Plus
+https://sxcce.dpdns.org/jtv/302109.m3u8
+
+#EXTINF:-1 tvg-id="3431" tvg-logo="https://img.media.jio.com/tvpimages/91/68/304062_1764845049241_l_medium.jpg" group-title="Infotainment" tvg-language="Malayalam",Discovery HD Malayalam
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1641" tvg-logo="https://img.media.jio.com/tvpimages/40/42/304104_1768465442420_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Zee Keralam HD
+https://sxcce.dpdns.org/jtv/304104.m3u8
+
+#EXTINF:-1 tvg-id="194385" tvg-logo="https://img.media.jio.com/tvpimages/0/52/304160_1777560818833_l_medium.jpg" group-title="Movies" tvg-language="Malayalam",Sun Surya Movies
+https://sxcce.dpdns.org/live/33625.m3u8
+
+#EXTINF:-1 tvg-id="193251" tvg-logo="https://img.media.jio.com/tvpimages/41/45/304164_1777561222640_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Sun Surya Comedy
+https://sxcce.dpdns.org/live/132092.m3u8
+
+#EXTINF:-1 tvg-id="194397" tvg-logo="https://img.media.jio.com/tvpimages/28/59/304168_1777562015153_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Sun Surya HD
+https://sxcce.dpdns.org/live/98014.m3u8
+
+#EXTINF:-1 tvg-id="194338" tvg-logo="https://img.media.jio.com/tvpimages/79/13/304169_1777562037158_l_medium.jpg" group-title="Music" tvg-language="Malayalam",Sun Surya Music
+https://sxcce.dpdns.org/live/132091.m3u8
+
+#EXTINF:-1 tvg-id="194398" tvg-logo="https://img.media.jio.com/tvpimages/19/21/304191_1778669057884_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Sun Surya
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="3565" tvg-logo="https://img.media.jio.com/tvpimages/13/89/304211_1781613012838_l_medium.jpg" group-title="Entertainment" tvg-language="Malayalam",Globeon Television
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="3567" tvg-logo="https://img.media.jio.com/tvpimages/57/19/304222_1783175166694_l_medium.jpg" group-title="News" tvg-language="Malayalam",BIGTV 24/7
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1455" tvg-logo="https://img.media.jio.com/tvpimages/9/27/304237_1787033445339_l_medium.jpg" group-title="Others" tvg-language="Malayalam",Janapriyam
+# Stream URL omitted: source entry requires DRM/license configuration.
+
+#EXTINF:-1 tvg-id="1552" tvg-logo="https://img.media.jio.com/tvpimages/95/38/304266_1790066859918_l_medium.jpg" group-title="Newly Launched" tvg-language="Malayalam",Malanadu TV
+# Stream URL omitted: source entry requires DRM/license configuration.
